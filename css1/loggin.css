@@ -1,0 +1,64 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+.main_con{
+
+}
+
+.row{
+    display: flex;
+}
+.col-2{
+    flex-basis: 50%;
+    height: 100vh;
+}
+
+.one{
+    background-image: url("https://images.pexels.com/photos/4587987/pexels-photo-4587987.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.login-column,
+.image-column {
+    flex: 1;
+    padding: 50px;
+    text-align: center;
+    width: 600px;
+    margin-top:200px;
+}
+
+.login-column form {
+    margin-bottom: 20px;
+}
+
+.login-column label {
+    display: block;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+
+.login-column input,
+.login-column button {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #000000;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+}
+
+.login-column .btn-login {
+    background-color: #c8e4ef;
+    color: white;
+    cursor: pointer;
+}
+
+.login-column button:hover {
+    background-color: #3e8e41;
+}
+
+.login-column a {
+    text-decoration: none;
+    color: #aaa;
+}
