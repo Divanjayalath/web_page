@@ -33,7 +33,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="css1/loggin.css">
+    <link rel="stylesheet" href="css/loggin.css">
 </head>
 <body>
         <div class="row">
