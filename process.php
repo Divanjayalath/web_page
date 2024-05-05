@@ -2,8 +2,8 @@
 // Assuming you have a MySQL database setup
 $servername = "localhost";
 $username = "root";
-$password = "mynameismad";
-$dbname = "pethub";
+$password = "";
+$dbname = "usr";
 
 // Create connection
 $conn = new mysqli($servername, $username, $password, $dbname);
