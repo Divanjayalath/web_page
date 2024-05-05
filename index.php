@@ -9,7 +9,7 @@
         echo "<script>
         document.getElementById('btn-logout').classList.add('show');
         </script>";
-        $email = "Login First";
+        $email = "Login";
     }
 
     if(isset($_POST["logout"])){

@@ -3,7 +3,7 @@
     if(isset($_SESSION["logged_user"])){
         $email = $_SESSION["logged_user"];
     }else{
-        $email = "Login First";
+        $email = "Login";
     }
 
 ?>
