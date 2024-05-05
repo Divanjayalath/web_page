@@ -56,10 +56,10 @@
                     document.getElementById('btn-logout').classList.add('hide');
                     </script>";
                 }?>
-                <h2 style="margin-left:670px">ILOVEPET</h2>
+                
             </div>
             <div class="body_dev">
-                <p class="p1">Hi There!</p><br>
+                <br>
                 <p class="p1">Do you want to buy me a toy?</p><br>
                 <a href="shop.php"><button class="button">shop now</button></a>
             </div>   
